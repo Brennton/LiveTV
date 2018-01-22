@@ -6,3 +6,21 @@ https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_700.m3u8
 
 #EXTINF:-1,Aljazeera USA
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8
+
+#EXTINF:-1,Gavity HBO USA
+http://ruhutv.com/2w7y5wyqco54ehc/?id=HBO_HD/HBO_HD_1200.m3u8
+
+#EXTINF:-1,Movies Now HD USA
+http://ruhutv.com/2w7y5wyqco54ehc/?id=Movies_Now_HD/Movies_Now_HD_1200.m3u8
+
+#EXTINF:-1,Sony ESPN HD USA
+http://ruhutv.com/2w7y5wyqco54ehc/?id=Sony_ESPN_HD/Sony_ESPN_HD_1200.m3u8
+
+#EXTINF:-1,Sony Pix HD USA
+http://ruhutv.com/2w7y5wyqco54ehc/?id=Sony_Pix_HD/Sony_Pix_HD_1200.m3u8
+
+#EXTINF:-1,Insight UK
+http://jiocgwhub.jio.ril.com/Insight/Insight_800.m3u8
+
+#EXTINF:-1,Neo Prime
+http://ruhutv.com/2w7y5wyqco54ehc/?id=Neo_Prime/Neo_Prime_1200.m3u8
