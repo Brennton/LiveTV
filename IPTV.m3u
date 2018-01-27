@@ -1,13 +1,28 @@
-#EXTINF:-1,RT USA
-https://secure-streams.akamaized.net/rt/index.m3u8
+#EXTINF:-1,ZNS TV BAHAMAS
+https://5a3c73deb0839.streamlock.net/znstv/smil:znstv_streams.smil/chunklist_w1663277276_b3128000_sleng.m3u8
 
-#EXTINF:-1,CBS News USA
-https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_700.m3u8
+#EXTINF:-1,CBC BARBADOS
+http://184.154.57.230:1935/livestream/livestream/chunklist_w174503899.m3u8
+
+#EXTINF:-1,Mello TV JAMAICA
+https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f_1_349184/chunklist.m3u8
+
+#EXTINF:-1,MTMTV JAMAICA
+http://66.228.55.75:1935/mtmtv/_definst_/live/playlist.m3u8
+
+#EXTINF:-1,CCN TV6 TNT
+https://live.field59.com/tv6/ngrp:tv61_all/chunklist_b2105344.m3u8
+
+#EXTINF:-1,trinitytv TNT
+http://1-fss29-s0.streamhoster.com/lv_trinitytv/_definst_/broadcast1/chunklist.m3u8
 
 #EXTINF:-1,Aljazeera USA
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8
 
-#EXTINF:-1,HBO HD USA
+#EXTINF:-1,CBS News USA
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_700.m3u8
+
+#EXTINF:-1,HBO USA
 http://ruhutv.com/2w7y5wyqco54ehc/?id=HBO_HD/HBO_HD_1200.m3u8
 
 #EXTINF:-1,Movies Now HD USA
@@ -15,6 +30,9 @@ http://ruhutv.com/2w7y5wyqco54ehc/?id=Movies_Now_HD/Movies_Now_HD_1200.m3u8
 
 #EXTINF:-1,Sony ESPN HD USA
 http://ruhutv.com/2w7y5wyqco54ehc/?id=Sony_ESPN_HD/Sony_ESPN_HD_1200.m3u8
+
+#EXTINF:-1,RT USA
+https://secure-streams.akamaized.net/rt/index.m3u8
 
 #EXTINF:-1,Sony Pix HD USA
 http://ruhutv.com/2w7y5wyqco54ehc/?id=Sony_Pix_HD/Sony_Pix_HD_1200.m3u8
