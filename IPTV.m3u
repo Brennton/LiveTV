@@ -45,3 +45,78 @@ http://jiocgwhub.jio.ril.com/Insight/Insight_800.m3u8
 
 #EXTINF:-1,Neo Prime
 http://ruhutv.com/2w7y5wyqco54ehc/?id=Neo_Prime/Neo_Prime_1200.m3u8
+
+#EXTINF:-1, ABC (USA)
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-p.m3u8?sd=10&b=500,300,700,900,1200&rebase=on
+
+#EXTINF:-1, Access Sacramento (USA)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, Almavison (USA)
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/TCTHLS_Live_600.m3u8
+
+#EXTINF:-1, Alternative (USA)
+http://telvuehls_t01997-i.akamaihd.net/hls/live/218552/T01997-2/playlist_2.m3u8
+
+#EXTINF:-1, Bloomberg (USA)
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:-1, C-SPAN (USA)
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, C-Span2 (USA)
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, C-Span3 (USA)
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, C-TN (USA)
+https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w1353611358_b1764000.m3u8
+
+#EXTINF:-1, CBN News (USA)
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, CBSN (USA)
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_700.m3u8
+
+#EXTINF:-1, CNN International (USA)
+http://91.121.244.94:8081/81AEZJaJuYnL7uO8ijYf2euOceuYTZDxY8euQVRIrNVI2ND6dQr8/live/cnn_id6748/index.m3u8
+
+#EXTINF:-1, CNN (USA)
+http://91.121.244.94:8081/81AEZJaJuYnL7uO8ijYf2euOceuYTZDxY8euQVRIrNVI2ND6dQr8/live/cnn_id6748/index.m3u8
+
+#EXTINF:-1, CTTV (USA)
+http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
+
+#EXTINF:-1, CTVN (USA)
+http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w94341244_b728000_sleng.m3u8
+
+#EXTINF:-1, EWTN (USA)
+http://ewtnmmd.mmdlive.lldns.net/ewtnmmd/dcb74fc2fa6f4ef1978b7f8c7f2a64cc/chunklist_b732000.m3u8
+
+#EXTINF:-1, GEB (USA)
+http://169.54.220.180:1935/live/smil:geb/chunklist_w1614718771_b811008.m3u8
+
+#EXTINF:-1, byutv (USA)
+http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_2564.m3u8
+
+#EXTINF:-1, GOD TV (USA
+http://ooyalahd2-f.akamaihd.net/i/godtv02_delivery@17351/index_1164_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, His Channel (USA)
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-128/mp4:wacx/chunks.m3u8
+
+#EXTINF:-1, Hope Church Channel (USA)
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_2192_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, JC TV (USA)
+https://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, MGATV (USA)
+http://video.mymanatee.org:1935/live/myStream.sdp/chunklist_w585812939.m3u8
+
+#EXTINF:-1, Miami Life & Health (USA)
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1227426023_b742000.m3u8
+
+#EXTINF:-1, MSNBC (USA)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8?sd=10&rebase=on
