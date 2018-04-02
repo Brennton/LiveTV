@@ -123,3 +123,15 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1227426023_b
 
 #EXTINF:-1, MSNBC (USA)
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, Sky Movie Disney (UK)
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_disney/index.m3u8
+
+#EXTINF:-1, Sky Movie Drama & Romance (UK)
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_drama/index.m3u8
+
+#EXTINF:-1, Sky Movie Sci-fi & Horror (UK)
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_SciFi&Horror/index.m3u8
+
+#EXTINF:-1, Sky Movie Comedy (UK)
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_comedy/index.m3u8
