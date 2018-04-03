@@ -37,9 +37,6 @@ https://secure-streams.akamaized.net/rt/index.m3u8
 #EXTINF:-1,Sony Pix HD USA
 http://ruhutv.com/2w7y5wyqco54ehc/?id=Sony_Pix_HD/Sony_Pix_HD_1200.m3u8
 
-#EXTINF:-1,USA Network USA
-http://play.uktvnow.net:8081/live/us-usanet.stream/chunks.m3u8?nimblesessionid=335707514&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDE4IDExOjAxOjA5IFBNJmhhc2hfdmFsdWU9WGZ2b2xWZk9hTzhxM0x3bklmaVpYZz09JnZhbGlkbWludXRlcz0yMA==
-
 #EXTINF:-1,WGN9 USA
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
