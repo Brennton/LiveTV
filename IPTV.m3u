@@ -132,3 +132,15 @@ http://wowza2.mysoltv.com:1992/UK_ENG_Sky_SciFi&Horror/index.m3u8
 
 #EXTINF:-1, Sky Movie Comedy (UK)
 http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_comedy/index.m3u8
+
+#EXTINF:-1, Diy
+http://vaders.tv:80/live/itsadzl/Iknowit1/40663.m3u8
+
+#EXTINF:-1, Fox Sports 1
+http://vaders.tv:80/live/itsadzl/Iknowit1/2568.m3u8
+
+#EXTINF:-1, Fox Sports 2
+http://vaders.tv:80/live/itsadzl/Iknowit1/2569.m3u8
+
+#EXTINF:-1, Fox News Channel
+http://vaders.tv:80/live/itsadzl/Iknowit1/2449.m3u8
