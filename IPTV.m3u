@@ -121,7 +121,7 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1227426023_b
 #EXTINF:-1, MSNBC (USA)
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, **** MOVIES ****
+#EXTINF:-1, ===== MOVIES =====
 http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_disney/index.m3u8
 #EXTINF:-1, Sky Movie Disney (UK)
 http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_disney/index.m3u8
@@ -135,7 +135,7 @@ http://wowza2.mysoltv.com:1992/UK_ENG_Sky_SciFi&Horror/index.m3u8
 #EXTINF:-1, Sky Movie Comedy (UK)
 http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_comedy/index.m3u8
 
-#EXTINF:-1, ▁ ▂ ▄ ▅ ▆ SPORTS ▆ ▅ ▄ ▂ ▁
+#EXTINF:-1, ===== SPORTS =====
 http://vaders.tv:80/live/itsadzl/Iknowit1/2568.m3u8
 #EXTINF:-1, Fox Sports 1
 http://vaders.tv:80/live/itsadzl/Iknowit1/2568.m3u8
@@ -143,7 +143,7 @@ http://vaders.tv:80/live/itsadzl/Iknowit1/2568.m3u8
 #EXTINF:-1, Fox Sports 2
 http://vaders.tv:80/live/itsadzl/Iknowit1/2569.m3u8
 
-#EXTINF:-1, ▁ ▂ ▄ ▅ ▆ NEWS ▆ ▅ ▄ ▂ ▁
+#EXTINF:-1, ===== NEWS =====
 http://vaders.tv:80/live/itsadzl/Iknowit1/2449.m3u8
 #EXTINF:-1, Fox News Channel
 http://vaders.tv:80/live/itsadzl/Iknowit1/2449.m3u8
