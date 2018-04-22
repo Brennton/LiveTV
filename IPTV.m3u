@@ -122,9 +122,9 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1227426023_b
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, ===== MOVIES =====
-http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_disney/index.m3u8
+http://vaders.tv:80/live/itsadzl/Iknowit1/2742.m3u8
 #EXTINF:-1, Sky Movie Disney (UK)
-http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_disney/index.m3u8
+http://vaders.tv:80/live/itsadzl/Iknowit1/2742.m3u8
 
 #EXTINF:-1, Sky Movie Drama & Romance (UK)
 http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_drama/index.m3u8
